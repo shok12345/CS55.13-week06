@@ -9,12 +9,12 @@ import utilStyles from '../styles/utils.module.css';
 // Import the Date component for formatting dates
 import Date from '../components/date';
 // Import the getSortedPostsData function from the posts library
-import { getSortedPostsData } from '../lib/posts-json';
+import { getSortedPostsData } from '../lib/posts-firebase';
  
 // Export an async function that runs at build time to fetch data for static generation
 export async function getStaticProps() {
   // Call the getSortedPostsData function to retrieve all blog post data
-  const allPostsData = getSortedPostsData();
+  const allPostsData = await getSortedPostsData();
   // Return an object containing props that will be passed to the component
   return {
     // Define the props object containing the data

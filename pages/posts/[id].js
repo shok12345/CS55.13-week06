@@ -8,7 +8,7 @@ import Date from '../../components/date';
 import utilStyles from '../../styles/utils.module.css';
  
 // Import the getAllPostIds and getPostData functions from the posts library
-import { getAllPostIds, getPostData } from '../../lib/posts-json';
+import { getAllPostIds, getPostData } from '../../lib/posts-firebase';
  
 // Export an async function that runs at build time to fetch data for static generation
 export async function getStaticProps({ params }) {
@@ -29,7 +29,7 @@ export async function getStaticProps({ params }) {
 // Export an async function that tells Next.js which paths to pre-render at build time
 export async function getStaticPaths() {
   // Call getAllPostIds to get an array of all post IDs and their paths
-  const paths = getAllPostIds();
+  const paths = await getAllPostIds();
   // Return an object containing the paths and fallback configuration
   return {
     // Pass the paths array to Next.js for pre-rendering
