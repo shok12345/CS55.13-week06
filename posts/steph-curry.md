@@ -1,0 +1,12 @@
+---
+title: 'The Story of Steph Curry'
+date: '2025-09-14'
+---
+ 
+Stephen Curry’s story is one of resilience, transformation, and revolutionary impact. Born on March 14, 1988, in Akron, Ohio, and raised in Charlotte, North Carolina, Curry grew up around the game — his father, Dell Curry, was a sharp-shooting NBA veteran. Despite his basketball pedigree, Steph was overlooked by major college programs due to his small frame and perceived lack of athleticism. He accepted a scholarship to Davidson College, where he quickly made a name for himself, especially during the 2008 NCAA Tournament, when he led underdog Davidson to the Elite Eight. His scoring ability, deep shooting range, and basketball IQ caught national attention, and he declared for the NBA Draft in 2009.
+
+Curry was selected 7th overall by the Golden State Warriors, but many doubted his future, citing his size, defense, and ankle injuries that plagued his early years. Yet, through hard work and belief from the Warriors organization, he overcame those injuries and steadily developed into a star. His breakout came in the 2014–15 season when he won his first MVP and led the Warriors to their first NBA title in 40 years. That year marked the beginning of a new era in basketball — one built around shooting, spacing, and unselfish ball movement, all of which Curry embodied.
+
+He went on to win back-to-back MVPs, including the first unanimous MVP in league history in 2016, and helped build a Warriors dynasty that won championships in 2015, 2017, 2018, and 2022. With each title, Curry continued to silence critics who questioned his playoff toughness or leadership. In 2022, he added a Finals MVP to his resume, further solidifying his legacy. Off the court, he became known for his humility, work ethic, and the joy he brought to the game. More than just a champion, Curry changed how basketball is played — transforming the three-point shot from a specialist weapon to the focal point of modern offenses.
+
+Today, Steph Curry is a four-time NBA champion, two-time MVP, nine-time All-Star, and the all-time leader in three-pointers made. But beyond the accolades, he’s inspired a generation of young players to believe that skill, intelligence, and heart can redefine what greatness looks like. His journey from overlooked college recruit to global icon is one of the most compelling and impactful stories in sports history.

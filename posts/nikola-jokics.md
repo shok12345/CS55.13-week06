@@ -1,0 +1,10 @@
+---
+title: 'Why is Nikola Jokić so good at basketball'
+date: '2025-09-14'
+---
+ 
+Nikola Jokić is so good because he’s truly one of the most unique and intelligent players the NBA has ever seen. Despite being a 7-footer, he plays like a point guard, running the Denver Nuggets’ offense with unmatched vision and decision-making. His basketball IQ is off the charts — he reads defenses in real time and makes lightning-fast decisions, often threading impossible passes through tight windows. Jokić is widely considered the best-passing big man in NBA history, regularly racking up assists typically reserved for elite guards. His ability to find open teammates, whether with flashy no-look passes or simple, perfectly timed dishes, makes the entire Nuggets offense more dangerous and unpredictable.
+
+Scoring-wise, he’s incredibly efficient. He doesn’t rely on athleticism or brute force; instead, he uses soft touch, excellent footwork, and a wide array of post moves, floaters, and mid-range shots — all with either hand. He can also stretch the floor by hitting three-pointers when needed. What sets him apart even more is his consistency. He rarely has a bad game, and he brings a calm, steady presence night after night. Despite not being flashy or fast, he dominates through patience, craftiness, and feel for the game.
+
+On top of all that, Jokić is an unselfish leader who doesn’t care about personal stats — he just wants to win. His selflessness and unassuming attitude make him beloved by teammates and fans alike. Already a multiple-time MVP and NBA champion, Jokić is carving out a legacy as one of the greatest players — not just centers — the game has ever seen. He’s a once-in-a-generation talent who defies traditional basketball roles, making everything he does on the court look effortless and brilliant.
